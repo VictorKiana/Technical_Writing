@@ -67,7 +67,7 @@ We welcome your contributions! If you have templates, writing tips, or style imp
 
 Please read CONTRIBUTING.md before submitting.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 
