@@ -38,7 +38,7 @@ Follow the checklist in writing-checklist.md to polish your work.
 
 Refer to style-guide.md to ensure consistency and clarity.
 
-✍️ Writing Guidelines
+## ✍️ Writing Guidelines
 Follow these general principles:
 
 Use clear and simple language
@@ -53,7 +53,7 @@ Keep formatting consistent using the style guide
 
 See style-guide.md for detailed rules.
 
-🛠️ Tools
+## 🛠️ Tools
 Recommended tools for writing and editing:
 
 Markdown editor (e.g., VS Code, Typora)
@@ -62,7 +62,7 @@ Grammarly or Hemingway for proofreading
 
 MkDocs or Docusaurus for publishing (optional)
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome your contributions! If you have templates, writing tips, or style improvements, feel free to fork this repo and open a pull request.
 
 Please read CONTRIBUTING.md before submitting.
